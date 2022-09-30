@@ -11,7 +11,7 @@
 
 - 💻 &nbsp; Computer Engineering Student at Cairo University.
 
-- ✍️ &nbsp; Pursuing Competitive Problem Solving .
+- ✍️ &nbsp; Pursuing Competitive Problem Solving.
 
 - ❤️ &nbsp; Intersted in AI and Data Analysis.
 
