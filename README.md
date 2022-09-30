@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
 <br>
 </div>
-<h3>  About Me </h3>
+<h3>  About </h3>
 
 
 
@@ -12,8 +12,7 @@
 
 - ✍️ &nbsp; Pursuing Competitive Problem Solving .
 
-
-## Connect with me:
+- 📫 &nbsp; You can reach me with the links below.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mennatallah-ahmed-6216b321b/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mennaahmed0701@gmail.com)
