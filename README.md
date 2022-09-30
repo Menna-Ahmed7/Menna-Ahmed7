@@ -1,4 +1,4 @@
-<div align="center"><h2> Hi there , I'm Menna 🙋‍♀️</h2>
+<div align="center"><h2> Hi there, I'm Menna 🙋‍♀️</h2>
 <img src="https://img.freepik.com/free-vector/young-woman-uses-computer-work-reduce-infection_1150-34985.jpg?w=740&t=st=1664560909~exp=1664561509~hmac=4417d8e8c8fb3a2eb9d8205b11acaf51657b4a37ec60dd62c606083ee748022f" width="400px"/>
 
 
