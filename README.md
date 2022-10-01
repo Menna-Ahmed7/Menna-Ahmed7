@@ -13,7 +13,7 @@
 
 - ✍️ &nbsp; Pursuing Competitive Problem Solving.
 
-- ❤️ &nbsp; Intersted in AI and Data Analysis.
+- ❤️ &nbsp; Interested in AI and Data Analysis.
 
 - 📫 &nbsp; You can reach me with the links below.
 
